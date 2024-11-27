@@ -10,6 +10,6 @@ while i > 0:
 bin_num = bin_s[::-1]
 print(bin_num)
 dec = 0
-for i, j in enumerate(bin_num):
+for i, j in enumerate(bin_s):
     dec += int(j) * (2 ** i) 
 print(dec)
