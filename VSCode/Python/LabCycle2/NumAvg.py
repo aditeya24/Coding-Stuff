@@ -1,10 +1,16 @@
 n = int(input("Enter how many numbers: "))
-print("Enter each number and press enter: ")
-num = []
-for i in range(0, n):
-  num.append(int(input()))
-max = max(num)
-min = min(num)
-sum = sum(num)
-avg = sum/n 
-print(f"Largest number: {max}\nSmallest number: {min}\nSum: {sum}\nAverage: {avg}")
+print("Input each number: ")
+i = 0
+largest = float('-inf')
+smallest = float('inf')
+total_sum = 0
+while i < n:
+    num = int(input())
+    if num > largest:
+        largest = num
+    if num < smallest:
+        smallest = num
+    total_sum += num
+    i+=1
+avg = total_sum/n 
+print(f"Largest number: {largest}\nSmallest number: {smallest}\nSum: {total_sum}\nAverage: {avg}")
