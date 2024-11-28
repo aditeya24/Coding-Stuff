@@ -13,4 +13,4 @@ while i < n:
     total_sum += num
     i+=1
 avg = total_sum/n 
-print(f"Largest number: {largest}\nSmallest number: {smallest}\nSum: {total_sum}\nAverage: {avg}")
+print(f"Largest: {largest}\nSmallest: {smallest}\nSum: {total_sum}\nAverage: {avg}")
