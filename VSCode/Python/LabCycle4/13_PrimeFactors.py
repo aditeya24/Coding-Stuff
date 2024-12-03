@@ -13,5 +13,6 @@ for i in range(1, int(sqrt(n)) + 1):
     if n % i == 0:
         factors.add(i)
         factors.add(n // i)
-f = (sorted(factors))
 
+f_prime = [i for i in sorted(factors) if isPrime(i)]
+print(*f_prime)
