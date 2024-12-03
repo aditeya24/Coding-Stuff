@@ -4,3 +4,5 @@ def oddEven(n):
     else:
         return False
 
+n = int(input("Enter a num: "))
+print("Even" if oddEven(n) else "Odd")
