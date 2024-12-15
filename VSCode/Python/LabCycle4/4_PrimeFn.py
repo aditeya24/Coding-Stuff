@@ -8,7 +8,7 @@ def isPrime(n):
     return True 
 
 def PrimeLessThanN(n):
-    primes =[i for i in range(2,n) if isPrime(n)]
+    primes =[i for i in range(2,n) if isPrime(i)]
     return primes
 
 def NthPrime(n):
