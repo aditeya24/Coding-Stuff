@@ -25,7 +25,7 @@ N = int(input("Enter a number: "))
 
 if N > 1:
     print(f"{N} is prime" if isPrime(N) else f"{N} is not prime")
-    print(f"Prime less than N: {PrimeLessThanN(N)}")
+    print(f"Prime less than {N}: {PrimeLessThanN(N)}")
     print(f"{N}th Prime number: {NthPrime(N)}")
 else:
     print("Error: Prime of num less than 1 not possible")
