@@ -1,0 +1,21 @@
+1. Write a program to print fibonacci series n terms (start=9:54, stop=)
+2. Write a program to print Prime no. from 1 to 1000 (start=, stop=10:17)
+3. Write a program to check if no. is krishnamurthy no. (start=10:17,stop=10:27)
+4. Write a program to check if a number is a neon number.(start=10:27,stop=10:34)
+5. Write a program to print pattern (start=10:34,stop=10:38)
+1
+1 2
+1 2 3
+1 2 3 4
+6. Write a program to reverse a number.(start=10:39,stop=10:43)
+7. Write a program to find sum of first and last digits of a number.(start=10:43,stop=10:48)
+8. Read n numbers and find the sum of all odd and even numbers separately.(start=10:48,stop=10:52)
+9. Write a program to count no. of digits in a number.(start=10:52,stop=10:57)
+10. Write a program to check if a number is perfect or not.(start=10:58,stop=11:02)
+11. Write a program to check whether largest of three natural numbers is prime or not.(start=11:02,stop=11:07)
+12. Write a program to get the sum of first 10 odd integers.(start=11:07,stop=11:11)
+13. Write a program to print the multiplication table of a numbers from 5 to 15.(start=11:11,stop=11:19)
+14. Write a program to print all the Krishnamurthy numbers in a given range.(start=11:11,stop=11:19)
+15. Write a program to print all the Amstrong numbers in a given range.(st
+art=5/3/25 10:09,end=5/3/25 10:18)
+16. Write a program to print the sum of digits of all numbers between 100 and 400.(start=11:19,stop=11:29)

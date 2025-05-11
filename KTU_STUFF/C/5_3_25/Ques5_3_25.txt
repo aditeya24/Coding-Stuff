@@ -1,0 +1,10 @@
+1. Find the sum of elements, average, min and max.
+2. Count the even and odd numbers in an array
+3. Linear search
+4. Bubble sort
+5. Copy elements of an array into another array
+6. Merge two arrays
+7. Find duplicate elements in an array and their occurance.
+8. Find second largest and second smallest element in an array.
+9. Find the sum of positive integers and negative integers in an array.
+10. Find the maximum difference between any two elements in a array.
