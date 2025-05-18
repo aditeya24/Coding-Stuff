@@ -1,0 +1,86 @@
+Module 1 theory
+
+1. C tokens - keywords, identifiers, constant, strings, special symbols, operators
+2. Data types (Primary, Derived, user defined)
+3. Operator precedence
+4. goto , continue, break and return differences
+5. While and do while differences
+
+Module 1 programs
+
+1. Prime number(using while or for)
+2. Sum of digits
+3. Reverse of digits
+4. Armstrong number
+5. Simple calculator using switch
+6. Strong number
+
+Module 2 Theory
+
+1. One dimensional array declaration and initialisation
+2. Two dimensional array declaration and initialisation
+3. Typdef and enumeration
+4. String declaration and initialisation
+5. String handling functions
+
+Module 2 programs- String
+
+1. Palindrome without using any string functions
+2. Reverse a string, concatenate a string, length of a sting without using any string functions
+3. Vowels, consonant and lines
+4. Words, lines
+
+Module 2 programs- Arrays
+
+1. Sum and avg of n natural numbers
+2. Sum and avg of odd/even numbers
+3. Matrix multiplication
+4. Matrix addition
+5. Transpose of a matrix
+6. Linear search
+7. Bubble sort
+
+Module 3 - Theory
+
+1. Function definition and structure
+2. Formal and actual parameters
+3. Recursive function
+4. Parameter passing
+5. Passing arrays (1D & 2D) elements to functions
+6. Storage classes 
+7. Structure and union definition and differences
+8. Passing structures to functions
+9. Types of functions (Library and user defined)
+10. Types of user defined functions (4 types)
+
+Module 3- Programs
+
+1. Passing arrays (1D & 2D) elements to functions
+2. Passing structures to functions
+3. Using Structure read data and display
+4. Using union read data and display
+
+Module 4 - Theory
+
+1. Pointer definition
+2. Pointer declaration and initialisation
+3. NULL pointer
+4. File definition
+5. File types (Text and binary)
+6. File operations
+7. File opening mode
+8. File handling functions
+9. Call by reference in pointers
+
+Module 4- Programs
+
+1. Do the following using pointers
+    i) add two numbers
+    ii) swap two numbers using user defined function
+2. Input and Print the elements of an array using pointers
+3. Compute sum of the elements stored in an array using pointers and user defined functions.
+4. Create a file and perform the following
+    i) Write data to the file
+    ii) Read the data in a given file & display the file content on console
+    iii) append new data and display on console
+5. Open a text input file and count number of characters, words and lines in it; and store the results in an output file.
