@@ -3,5 +3,10 @@ services:
     build: .
     ports:
       - "8000:5000"
+    develop:
+      watch:
+        - action: sync
+          path: .
+          target: /code
   redis:
     image: "redis:alpine"
